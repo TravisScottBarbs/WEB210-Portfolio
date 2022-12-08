@@ -1,0 +1,84 @@
+body {
+    background-color: rgba(236, 236, 236, 0.639);
+}
+
+/* Navigation */
+.nav-item {
+    font-size: large;
+}
+
+.nav-link {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+/* Headers */
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
+.h2 {
+    text-decoration: underline;
+}
+
+/* Images */
+img {
+    border: 2px solid rgb(126, 126, 126);
+    border-radius: 10px;
+}
+
+.banner-img {
+    display: block;
+    max-height: 450px;
+    margin: 3% auto;
+}
+
+.img-myself {
+    max-height: 600px;
+}
+
+.contact-img {
+    display: block;
+    max-height: 700px;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.text-img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-weight: bold;
+}
+
+.project-img {
+    display: block;
+    margin: 0 auto;
+    max-height: 300px;
+    /* width: 85%; */
+}
+
+.footer-logo {
+    max-height: 45px;
+}
+
+/* Footer */
+footer {
+    color: black;
+}
+
+/* General Styles */
+.container {
+    position: relative;
+}
+
+p {
+    text-align: center;
+}
